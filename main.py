@@ -44,3 +44,4 @@ model.add(Dense(16, activation=tf.nn.relu)),
 model.add(Dense(32, activation=tf.nn.relu))
 model.add(Dense(layers[-1]))
 print("Model Built!")
+
